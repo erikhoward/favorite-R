@@ -46,4 +46,4 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 * [vscode](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) - R plugin for VS Code
 
 # Contributing
-Your contributions are always welcome! Please read the [Contributing](https://github.com/erikhoward/favorite-R/blob/master/CONTRIBUTING.md) file to get started.
+Your contributions are always welcome! Please read the [Contributing](https://github.com/erikhoward/favorite-R/blob/master/CONTRIBUTING.md) guidelines to get started.
