@@ -29,6 +29,7 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 
 * [ggplot2](https://github.com/tidyverse/ggplot2) - A data visualization package for R
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - Opinionated ggplot2 themes and theme components
+* [waffle](https://github.com/hrbrmstr/waffle) - Make waffle (square pie) charts in R
 
 ## Reproducible Research
 *If you can't reproduce it then it didn't happen*
