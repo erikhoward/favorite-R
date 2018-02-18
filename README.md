@@ -4,6 +4,7 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 - [Favorite R](#favorite-)
   - [Essentials](#essentials)
   - [EDA](#eda)
+  - [Reproducible Research](#reproducible-research)
   - [Integrated Development Environment](#integrated-development-environments)
   - [Contributing](#contributing)
   
@@ -20,6 +21,13 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 *Exploratory Data Analysis packages.*
 
 * [visdat](https://github.com/ropensci/visdat) - Preliminary Exploratory Visualisation of Data
+
+## Reproducible Research
+*If you can't reproduce it then it didn't happen*
+
+* [knitr](http://yihui.name/knitr/) - Dynamic report generation engine for R
+* [R Markdown](https://rmarkdown.rstudio.com/) - Fully reproducible Markdown documents for R
+* [remedy](https://github.com/ThinkR-open/remedy) - RStudio Addins to Simplify Markdown Writing
 
 ## Integrated Development Environments
 *Integrated Development Environment*
