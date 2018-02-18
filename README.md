@@ -8,6 +8,7 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
   - [Visualization](#visualization)
   - [Reproducible Research](#reproducible-research)
   - [Integrated Development Environment](#integrated-development-environments)
+  - [R Development](#r-development)
   - [Contributing](#contributing)
   
 ## Essentials
@@ -61,6 +62,13 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 * [RStudio](https://www.rstudio.com/) - Powerful open source and commercial IDE for R
 * [RTVS](https://docs.microsoft.com/en-us/visualstudio/rtvs/installer) - R Tools for Visual Studio
 * [vscode](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) - R plugin for VS Code
+
+## R Development
+*R Development*
+
+* [devtools](https://github.com/r-lib/devtools) - Tools to make an R developer's life easier
+* [remotes](https://github.com/r-lib/remotes) - Install R packages from GitHub, Bitbucket, git, svn repositories, URLs
+* [here](https://github.com/krlmlr/here) - You are here
 
 # Contributing
 Your contributions are always welcome! Please read the [contributing](https://github.com/erikhoward/favorite-R/blob/master/CONTRIBUTING.md) guidelines to get started.
