@@ -3,6 +3,7 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 
 - [Favorite R](#favorite-)
   - [Essentials](#essentials)
+  - [Data Manipulation](#data-manipulation)
   - [EDA](#eda)
   - [Visualization](#visualization)
   - [Reproducible Research](#reproducible-research)
@@ -18,6 +19,15 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 * [readr](https://github.com/tidyverse/readr) - Read flat files into R
 * [data.table](https://github.com/Rdatatable/data.table) - Fast data manipulation with short syntax
 * [lubridate](https://github.com/tidyverse/lubridate) - Make working with dates in R just that little bit easier
+
+## Data Manipulation
+*Packages for slicing and dicing data*
+
+* [tidyverse](https://github.com/tidyverse/tidyverse) - An opinionated collection of R packages designed for data science
+* [dplyr](https://github.com/tidyverse/dplyr) - A data manipulation package for R
+* [readr](https://github.com/tidyverse/readr) - Read flat files into R
+* [data.table](https://github.com/Rdatatable/data.table) - Fast data manipulation with short syntax
+
 
 ## EDA
 *Exploratory Data Analysis packages.*
@@ -46,4 +56,4 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 * [vscode](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) - R plugin for VS Code
 
 # Contributing
-Your contributions are always welcome! Please read the [Contributing](https://github.com/erikhoward/favorite-R/blob/master/CONTRIBUTING.md) guidelines to get started.
+Your contributions are always welcome! Please read the [contributing](https://github.com/erikhoward/favorite-R/blob/master/CONTRIBUTING.md) guidelines to get started.
