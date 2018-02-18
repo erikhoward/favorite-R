@@ -35,6 +35,7 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 * [stringr](https://github.com/tidyverse/stringr) - Unglamorous string manipulation in R
 * [reshape2](https://github.com/hadley/reshape) - An R package to flexible rearrange, reshape and aggregate data
 * [googlesheets](https://github.com/jennybc/googlesheets) - Google Spreadsheets R API
+* [readxl](https://github.com/tidyverse/readxl) - Read excel files (.xls and .xlsx) into R
 
 
 ## EDA
