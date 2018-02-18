@@ -4,6 +4,7 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 - [Favorite R](#favorite-)
   - [Essentials](#essentials)
   - [EDA](#eda)
+  - [Visualization](#visualization)
   - [Reproducible Research](#reproducible-research)
   - [Integrated Development Environment](#integrated-development-environments)
   - [Contributing](#contributing)
@@ -22,6 +23,12 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 *Exploratory Data Analysis packages.*
 
 * [visdat](https://github.com/ropensci/visdat) - Preliminary Exploratory Visualisation of Data
+
+## Visualization
+*Visualize your data.*
+
+* [ggplot2](https://github.com/tidyverse/ggplot2) - A data visualization package for R
+* [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - Opinionated ggplot2 themes and theme components
 
 ## Reproducible Research
 *If you can't reproduce it then it didn't happen*
