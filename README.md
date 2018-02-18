@@ -6,7 +6,9 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
   - [Data Manipulation](#data-manipulation)
   - [EDA](#eda)
   - [Visualization](#visualization)
+  - [Database](#database)
   - [Reproducible Research](#reproducible-research)
+  - [Spatial Analysis](#spatial-analysis)
   - [Integrated Development Environment](#integrated-development-environments)
   - [R Development](#r-development)
   - [Contributing](#contributing)
@@ -49,12 +51,28 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 * [ggthemes](https://github.com/jrnold/ggthemes) - More themes and scales for ggplot2
 * [waffle](https://github.com/hrbrmstr/waffle) - Make waffle (square pie) charts in R
 
+## Database
+*Database manipulation packages*
+
+* [RMySQL](https://github.com/r-dbi/RMySQL) - An R interface for MySQL
+* [RMariaDB](https://github.com/r-dbi/RMariaDB) - An R interface for MariaDB
+* [RPostgreSQL](https://cran.r-project.org/web/packages/RPostgreSQL/index.html) - An R interface for PostgreSQL
+* [RSQLite](https://github.com/r-dbi/RSQLite) - An R interface for SQLite
+* [mongolite](https://github.com/jeroen/mongolite) - An R interface for MongoDB
+* [bigrquery](https://github.com/r-dbi/bigrquery) - An interface to Google's bigquery from R
+
 ## Reproducible Research
 *If you can't reproduce it then it didn't happen*
 
 * [knitr](http://yihui.name/knitr/) - Dynamic report generation engine for R
 * [R Markdown](https://rmarkdown.rstudio.com/) - Fully reproducible Markdown documents for R
 * [remedy](https://github.com/ThinkR-open/remedy) - RStudio Addins to Simplify Markdown Writing
+
+## Spatial Analysis
+*Spatial analysis packages*
+
+* [leaflet](https://rstudio.github.io/leaflet/) - Package for creating interactive maps in R
+* [ggmap](https://github.com/dkahle/ggmap) - A package for plotting maps in R with ggplot2
 
 ## Integrated Development Environments
 *Integrated Development Environment*
