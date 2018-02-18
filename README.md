@@ -4,6 +4,7 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 - [Favorite R](#favorite-)
   - [Essentials](#essentials)
   - [EDA](#eda)
+  - [Integrated Development Environment](#integrated-development-environments)
   - [Contributing](#contributing)
   
 ## Essentials
@@ -19,6 +20,13 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 *Exploratory Data Analysis packages.*
 
 * [visdat](https://github.com/ropensci/visdat) - Preliminary Exploratory Visualisation of Data
+
+## Integrated Development Environments
+*Integrated Development Environment*
+
+* [RStudio](https://www.rstudio.com/) - Powerful open source and commercial IDE for R
+* [RTVS](https://docs.microsoft.com/en-us/visualstudio/rtvs/installer) - R Tools for Visual Studio
+* [vscode](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) - R plugin for VS Code
 
 # Contributing
 Your contributions are always welcome!
