@@ -69,6 +69,8 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 * [devtools](https://github.com/r-lib/devtools) - Tools to make an R developer's life easier
 * [remotes](https://github.com/r-lib/remotes) - Install R packages from GitHub, Bitbucket, git, svn repositories, URLs
 * [here](https://github.com/krlmlr/here) - You are here
+* [roxygen2](https://github.com/klutometis/roxygen) -  Quick way to document your R packages
+* [testthat](https://github.com/r-lib/testthat) - Provides an easy way to write unit tests for your code projects
 
 # Contributing
 Your contributions are always welcome! Please read the [contributing](https://github.com/erikhoward/favorite-R/blob/master/CONTRIBUTING.md) guidelines to get started.
