@@ -16,6 +16,7 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 * [tidyverse](https://github.com/tidyverse/tidyverse) - An opinionated collection of R packages designed for data science
 * [ggplot2](https://github.com/tidyverse/ggplot2) - A data visualization package for R
 * [dplyr](https://github.com/tidyverse/dplyr) - A data manipulation package for R
+* [janitor](https://github.com/sfirke/janitor) - Simple tools for data cleaning in R
 * [readr](https://github.com/tidyverse/readr) - Read flat files into R
 * [data.table](https://github.com/Rdatatable/data.table) - Fast data manipulation with short syntax
 * [lubridate](https://github.com/tidyverse/lubridate) - Make working with dates in R just that little bit easier
@@ -25,8 +26,12 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 
 * [tidyverse](https://github.com/tidyverse/tidyverse) - An opinionated collection of R packages designed for data science
 * [dplyr](https://github.com/tidyverse/dplyr) - A data manipulation package for R
+* [janitor](https://github.com/sfirke/janitor) - Simple tools for data cleaning in R
 * [readr](https://github.com/tidyverse/readr) - Read flat files into R
 * [data.table](https://github.com/Rdatatable/data.table) - Fast data manipulation with short syntax
+* [stringr](https://github.com/tidyverse/stringr) - Unglamorous string manipulation in R
+* [reshape2](https://github.com/hadley/reshape) - An R package to flexible rearrange, reshape and aggregate data
+* [googlesheets](https://github.com/jennybc/googlesheets) - Google Spreadsheets R API
 
 
 ## EDA
