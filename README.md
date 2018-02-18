@@ -32,6 +32,7 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 ## EDA
 *Exploratory Data Analysis packages.*
 
+* [summarytools](https://github.com/dcomtois/summarytools) - R Package for quickly and neatly summarizing vectors and dataframes
 * [visdat](https://github.com/ropensci/visdat) - Preliminary Exploratory Visualisation of Data
 
 ## Visualization
@@ -39,6 +40,7 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 
 * [ggplot2](https://github.com/tidyverse/ggplot2) - A data visualization package for R
 * [hrbrthemes](https://github.com/hrbrmstr/hrbrthemes) - Opinionated ggplot2 themes and theme components
+* [ggthemes](https://github.com/jrnold/ggthemes) - More themes and scales for ggplot2
 * [waffle](https://github.com/hrbrmstr/waffle) - Make waffle (square pie) charts in R
 
 ## Reproducible Research
