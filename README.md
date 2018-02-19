@@ -38,7 +38,6 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 * [googlesheets](https://github.com/jennybc/googlesheets) - Google Spreadsheets R API
 * [readxl](https://github.com/tidyverse/readxl) - Read excel files (.xls and .xlsx) into R
 
-
 ## EDA
 *Exploratory Data Analysis packages.*
 
@@ -84,7 +83,6 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 * [syuzhet](https://cran.r-project.org/web/packages/syuzhet/index.html) - Powerful sentiment analysis package for R
 * [sentimentr](https://github.com/trinker/sentimentr) - Dictionary based sentiment analysis that considers valence shifters
 * [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html) - Package to create pretty word clouds
-
 
 ## Integrated Development Environments
 *Integrated Development Environment*
