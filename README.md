@@ -9,6 +9,7 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
   - [Database](#database)
   - [Reproducible Research](#reproducible-research)
   - [Spatial Analysis](#spatial-analysis)
+  - [Natural Language Processing](#natural-language-processing)
   - [Integrated Development Environment](#integrated-development-environments)
   - [R Development](#r-development)
   - [Contributing](#contributing)
@@ -74,6 +75,16 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 
 * [leaflet](https://rstudio.github.io/leaflet/) - Package for creating interactive maps in R
 * [ggmap](https://github.com/dkahle/ggmap) - A package for plotting maps in R with ggplot2
+
+## Natural Language Processing
+*Packages for Natural Language Processing*
+
+* [tm](http://cran.r-project.org/web/packages/tm/index.html) - A comprehensive text mining framework for R
+* [SnowballC](https://cran.rstudio.com/web/packages/SnowballC/index.html) - Snowball stemmers based on the C libstemmer UTF-8 library
+* [syuzhet](https://cran.r-project.org/web/packages/syuzhet/index.html) - Powerful sentiment analysis package for R
+* [sentimentr](https://github.com/trinker/sentimentr) - Dictionary based sentiment analysis that considers valence shifters
+* [wordcloud](https://cran.r-project.org/web/packages/wordcloud/index.html) - Package to create pretty word clouds
+
 
 ## Integrated Development Environments
 *Integrated Development Environment*
