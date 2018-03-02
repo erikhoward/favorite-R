@@ -24,6 +24,7 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 * [readr](https://github.com/tidyverse/readr) - Read flat files into R
 * [data.table](https://github.com/Rdatatable/data.table) - Fast data manipulation with short syntax
 * [lubridate](https://github.com/tidyverse/lubridate) - Make working with dates in R just that little bit easier
+* [skimr](https://github.com/ropenscilabs/skimr) - Provides tidyverse-friendly summary statistics
 
 ## Data Manipulation
 *Packages for slicing and dicing data*
@@ -42,6 +43,7 @@ Curated list of interesting and usefule R packages. This list was inspired by [A
 ## EDA
 *Exploratory Data Analysis packages.*
 
+* [skimr](https://github.com/ropenscilabs/skimr) - Provides tidyverse-friendly summary statistics
 * [summarytools](https://github.com/dcomtois/summarytools) - R Package for quickly and neatly summarizing vectors and dataframes
 * [visdat](https://github.com/ropensci/visdat) - Preliminary Exploratory Visualisation of Data
 
